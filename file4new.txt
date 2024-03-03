@@ -1,0 +1,2 @@
+this is file4new directly created on github.com
+this is second line
