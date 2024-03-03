@@ -1,0 +1,3 @@
+this is text file2
+this is sameple text line
+this is line number 3
